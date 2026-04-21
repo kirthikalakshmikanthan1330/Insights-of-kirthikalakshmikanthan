@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kirthikalakshmikanthan
+# Hi, I'm Kirthikalakshmikanthan
 
 <div align="center">
 
@@ -113,22 +113,6 @@ Seaborn, Pandas, Numpy
 ![IEEE](https://img.shields.io/badge/IEEE-Paper_Presentation-00629B?style=flat-square&logo=ieee&logoColor=white)
 ![Ideathon](https://img.shields.io/badge/Startup-Ideathon-FF6F00?style=flat-square&logo=startrek&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirthikalakshmikanthan1330&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirthikalakshmikanthan1330&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kirthikalakshmikanthan1330&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=kirthikalakshmikanthan1330&color=6C5CE7&style=flat-square&label=Profile+Views)
 
 
 ⭐ *If you find my work interesting, feel free to star my repos and connect!*
