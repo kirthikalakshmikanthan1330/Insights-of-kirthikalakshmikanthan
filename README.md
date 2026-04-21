@@ -4,7 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C5CE7¢er=true&vCenter=true&width=650&lines=Aspiring+Software+%26+Data+Professional;B.Tech+AI+%26+Data+Science+%7C+CIT+Coimbatore;NLP+%7C+Machine+Learning+%7C+Data+Analytics;Turning+Complex+Ideas+into+Meaningful+Insights)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kirthikalakshmikanthan1330&color=6C5CE7&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -17,8 +16,10 @@
 I'm an **Aspiring Software & Data Professional** pursuing B.Tech in **Artificial Intelligence and Data Science** at Coimbatore Institute of Technology (CGPA: 8.23). I have hands-on internship experience in **NLP, voice-based AI systems**, and **data analytics**, and I'm passionate about building solutions that create real-world impact.
 
 - 🔭 Currently working on AI & data-driven projects
-- 🌱 Learning advanced ML, Deep Learning & Data Visualization
-- 🎤 Interested in Data Analytics, Visualization & Public Speaking
+- 🌱 Learning on DSA, Networks, OOPS, DBMS, OS, 
+Machine learning, Deep Learning, SQL, Matplot, 
+Seaborn, Pandas, Numpy
+- 🎤 Interested in Data Analytics and Mentoring
 - 📫 Reach me at: **krithikalakshmikanthan@gmail.com**
 - 📍 Coimbatore, Tamil Nadu, India
 
@@ -86,12 +87,12 @@ I'm an **Aspiring Software & Data Professional** pursuing B.Tech in **Artificial
 ### 🔐 AI-Based Cyber Threat Analysis System
 > Developed a machine learning-based system to detect network anomalies and visualize security risk insights through interactive dashboards.
 
-### 📊 AI-Powered Decision Support System
-> Designed a data-driven system to analyze historical data for demand forecasting, production optimization, and profitability insights.
-
 ### 📄 Automated DOCX Template Formatting
 > Built an automated tool to standardize raw DOCX files into structured publication templates, improving consistency and reducing manual effort.
 
+### 🚀 Multi-Modal Assistive Vision System
+
+>Real-time object detection & navigation guidance using YOLOv8.Provides obstacle detection, distance & direction analysis with audio alerts for safer navigation 
 ---
 
 ## 🎓 Education
@@ -112,12 +113,6 @@ I'm an **Aspiring Software & Data Professional** pursuing B.Tech in **Artificial
 ![IEEE](https://img.shields.io/badge/IEEE-Paper_Presentation-00629B?style=flat-square&logo=ieee&logoColor=white)
 ![Ideathon](https://img.shields.io/badge/Startup-Ideathon-FF6F00?style=flat-square&logo=startrek&logoColor=white)
 
-**🎯 Event Head — Intellina 2k26, Department Symposium**
-- Led end-to-end planning and execution of the **RRR Coding Contest**
-- Coordinated event logistics, participant management, and a team of volunteers
-- Collaborated with faculty to ensure technical fairness of the competition
-
----
 
 ## 📊 GitHub Stats
 
@@ -133,19 +128,8 @@ I'm an **Aspiring Software & Data Professional** pursuing B.Tech in **Artificial
 
 ---
 
-## 🏅 GitHub Trophies
+![Profile Views](https://komarev.com/ghpvc/?username=kirthikalakshmikanthan1330&color=6C5CE7&style=flat-square&label=Profile+Views)
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kirthikalakshmikanthan1330&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-<div align="center">
-
-📧 krithikalakshmikanthan@gmail.com  |  📍 Coimbatore, Tamil Nadu
 
 ⭐ *If you find my work interesting, feel free to star my repos and connect!*
 
