@@ -7,7 +7,7 @@
 
 </div>
 
----
+
 
 ## 🧑‍💻 About Me
 
@@ -23,23 +23,23 @@ Seaborn, Pandas, Numpy
 - 📫 Reach me at: **krithikalakshmikanthan@gmail.com**
 - 📍 Coimbatore, Tamil Nadu, India
 
----
+
 
 ## 💼 Professional Experience
 
-### 🏥 Project Intern — iCliniq
+###  Project Intern — iCliniq
 **Dec 2025 – Apr 2026 | Coimbatore**
 - Contributed to developing a **voice-enabled patient intake system** to automate medical form completion
 - Processed conversational inputs using **NLP techniques** to extract structured data
 - Improved data accuracy and reduced manual coordination in telehealth workflows
 
-### 🤖 AI Intern — Dsignz Media
+###  AI Intern — Dsignz Media
 **May 2025 – Jun 2025 | Coimbatore**
 - Developed a **voice-enabled browser extension** to assist visually impaired users in completing online forms
 - Used **NLP techniques** to process structured and unstructured inputs for automated data entry
 - Improved accessibility and reduced manual effort significantly
 
----
+
 
 ## 🛠️ Tech Skills
 
@@ -72,28 +72,28 @@ Seaborn, Pandas, Numpy
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
----
+
 
 ## 🧠 Soft Skills
 
-| 🧩 Problem Solving | 💬 Communication | 🤝 Team Collaboration |
+|  Problem Solving |  Communication |  Team Collaboration |
 |---|---|---|
-| 👑 Leadership | 🔍 Analytical Thinking | 🎤 Public Speaking |
+|  Leadership |  Analytical Thinking |  Public Speaking |
 
----
+
 
 ## 🚀 Projects
 
-### 🔐 AI-Based Cyber Threat Analysis System
+###  AI-Based Cyber Threat Analysis System
 > Developed a machine learning-based system to detect network anomalies and visualize security risk insights through interactive dashboards.
 
-### 📄 Automated DOCX Template Formatting
+###  Automated DOCX Template Formatting
 > Built an automated tool to standardize raw DOCX files into structured publication templates, improving consistency and reducing manual effort.
 
-### 🚀 Multi-Modal Assistive Vision System
+###  Multi-Modal Assistive Vision System
 
 >Real-time object detection & navigation guidance using YOLOv8.Provides obstacle detection, distance & direction analysis with audio alerts for safer navigation 
----
+
 
 ## 🎓 Education
 
@@ -103,7 +103,7 @@ Seaborn, Pandas, Numpy
 | HSC | Malco Vidyalaya Matric Hr. Sec. School | 91.6% | 2023 |
 | SSLC | St. Mary's Matric Hr. Sec. School | 90.5% | 2021 |
 
----
+
 
 ## 🏆 Certificates & Achievements
 
@@ -115,6 +115,6 @@ Seaborn, Pandas, Numpy
 
 
 
-⭐ *If you find my work interesting, feel free to star my repos and connect!*
+ *If you find my work interesting, feel free to star my repos and connect!*
 
 </div>
