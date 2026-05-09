@@ -82,39 +82,4 @@ Seaborn, Pandas, Numpy
 
 
 
-## 🚀 Projects
-
-###  AI-Based Cyber Threat Analysis System
-> Developed a machine learning-based system to detect network anomalies and visualize security risk insights through interactive dashboards.
-
-###  Automated DOCX Template Formatting
-> Built an automated tool to standardize raw DOCX files into structured publication templates, improving consistency and reducing manual effort.
-
-###  Multi-Modal Assistive Vision System
-
->Real-time object detection & navigation guidance using YOLOv8.Provides obstacle detection, distance & direction analysis with audio alerts for safer navigation 
-
-
-## 🎓 Education
-
-| Degree | Institution | Score | Year |
-|---|---|---|---|
-| B.Tech — AI & Data Science | Coimbatore Institute of Technology | CGPA: 8.23 | 2023 – Present |
-| HSC | Malco Vidyalaya Matric Hr. Sec. School | 91.6% | 2023 |
-| SSLC | St. Mary's Matric Hr. Sec. School | 90.5% | 2021 |
-
-
-
-## 🏆 Certificates & Achievements
-
-![NPTEL Python](https://img.shields.io/badge/NPTEL-Python_Programming-3776AB?style=flat-square&logo=python&logoColor=white)
-![NPTEL Java](https://img.shields.io/badge/NPTEL-Java_Programming-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_and_Database_101-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![IEEE](https://img.shields.io/badge/IEEE-Paper_Presentation-00629B?style=flat-square&logo=ieee&logoColor=white)
-![Ideathon](https://img.shields.io/badge/Startup-Ideathon-FF6F00?style=flat-square&logo=startrek&logoColor=white)
-
-
-
- *If you find my work interesting, feel free to star my repos and connect!*
-
-</div>
+iv>
