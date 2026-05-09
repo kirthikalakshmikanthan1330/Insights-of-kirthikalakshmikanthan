@@ -9,23 +9,23 @@
 
 
 
-## 🧑‍💻 About Me
+##  About Me
 
 > *"Analytical and detail-oriented — transforming complex data into simple, meaningful insights."*
 
 I'm an **Aspiring Software & Data Professional** pursuing B.Tech in **Artificial Intelligence and Data Science** at Coimbatore Institute of Technology (CGPA: 8.23). I have hands-on internship experience in **NLP, voice-based AI systems**, and **data analytics**, and I'm passionate about building solutions that create real-world impact.
 
-- 🔭 Currently working on AI & data-driven projects
-- 🌱 Learning on DSA, Networks, OOPS, DBMS, OS, 
+-  Currently working on AI & data-driven projects
+-  Learning on DSA, Networks, OOPS, DBMS, OS, 
 Machine learning, Deep Learning, SQL, Matplot, 
 Seaborn, Pandas, Numpy
-- 🎤 Interested in Data Analytics and Mentoring
-- 📫 Reach me at: **krithikalakshmikanthan@gmail.com**
-- 📍 Coimbatore, Tamil Nadu, India
+-  Interested in Data Analytics and Mentoring
+-  Reach me at: **krithikalakshmikanthan@gmail.com**
+-  Coimbatore, Tamil Nadu, India
 
 
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ###  Project Intern — iCliniq
 **Dec 2025 – Apr 2026 | Coimbatore**
@@ -41,7 +41,7 @@ Seaborn, Pandas, Numpy
 
 
 
-## 🛠️ Tech Skills
+##  Tech Skills
 
 **Languages & Programming**
 
@@ -74,7 +74,7 @@ Seaborn, Pandas, Numpy
 
 
 
-## 🧠 Soft Skills
+##  Soft Skills
 
 |  Problem Solving |  Communication |  Team Collaboration |
 |---|---|---|
